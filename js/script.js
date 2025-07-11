@@ -1,4 +1,3 @@
-
 // Save the reference to text-field into a variable.
 const itemName = document.getElementById('itemName');
 
